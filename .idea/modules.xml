@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AlBERT_MY2/.idea/AlBERT_MY.iml" filepath="$PROJECT_DIR$/../AlBERT_MY2/.idea/AlBERT_MY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Multi_Segment_Multi_Classifier.iml" filepath="$PROJECT_DIR$/.idea/Multi_Segment_Multi_Classifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Text_to_Json/.idea/Text_to_Json.iml" filepath="$PROJECT_DIR$/../Text_to_Json/.idea/Text_to_Json.iml" />
+    </modules>
+  </component>
+</project>
